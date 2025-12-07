@@ -1,0 +1,7 @@
+{
+  "name": "Bio-Luminescent Jellyfish Particle System",
+  "description": "A real-time, interactive 3D particle system mimicking jellyfish movement. Features gesture-based control via camera motion analysis, generative model configuration using Gemini 2.5 Flash, and a modern reactive UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
